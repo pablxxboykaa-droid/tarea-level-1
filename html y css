@@ -1,0 +1,11 @@
+<section class="biografia">
+    <h1>Mi Bio</h1>
+    <h2>Hola, soy un futuro dev</h2>
+    <p>Estoy aprendiendo Python y me gusta mucho el cafe.</p>
+</section>
+
+<ul class="lista-compras">
+    <li>Teclado Mecanico</li>
+    <li>Monitor 24'</li>
+    <li>Café en grano</li>
+</ul>
